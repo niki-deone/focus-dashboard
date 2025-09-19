@@ -2,7 +2,8 @@
 
 A minimal, modern dashboard that shows live time, dynamic greeting, and editable daily focus with persistence via localStorage.  
 
-Demo: https://focus-dashboard-one.vercel.app
+Demo(Vercel): https://focus-dashboard-one.vercel.app
+Backup(GitHub Pages): https://niki-deone.github.io/focus-dashboard
 
 Features:
 - Live 12-hour clock with AM/PM.
@@ -21,4 +22,4 @@ Deployment:
 - Vercel: Framework = Other, Build = empty, Output = empty, Root Directory = / or project folder.
 - GitHub Pages: Settings → Pages → Source: Deploy from a branch → Branch: main → /root.
 
-![Demo](
+![Demo](t: git add README.md; git commit -m "docs: add demo links"; git push
