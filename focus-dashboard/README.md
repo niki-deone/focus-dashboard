@@ -20,3 +20,5 @@ How to run locally:
 Deployment:
 - Vercel: Framework = Other, Build = empty, Output = empty, Root Directory = / or project folder.
 - GitHub Pages: Settings → Pages → Source: Deploy from a branch → Branch: main → /root.
+
+![Demo](
